@@ -18,12 +18,12 @@ body{
   position: absolute;
   top: 0;
   right: 0;
-  bottom: 0;
   left: 0;
   border-radius: 50%;
   width: 500px;
   height: 500px;
   margin: auto;
+  margin-top: 64px;
 
 }
 .hour-hand{
